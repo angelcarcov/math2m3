@@ -6,7 +6,7 @@
 - Cuando el divisor y el dividendo son decimales. [Video](https://www.youtube.com/watch?v=tAJwVPwXy2M&ab_channel=VitualPreparatoria)
 
 ## Relaciones de proporcionalidad
-- Cuando la relacion es inversa. [Video](https://www.youtube.com/watch?v=WzcLzSY9JLA&ab_channel=DanielCarreon)
+- Cuando la relacion es inversa (proporscionalidad inversa). [Video](https://www.youtube.com/watch?v=WzcLzSY9JLA&ab_channel=DanielCarreon)
 
 [![Screen-Shot-2020-11-01-at-11-01-17-PM.png](https://i.postimg.cc/bwz00tQF/Screen-Shot-2020-11-01-at-11-01-17-PM.png)](https://postimg.cc/svNZs1Hp)
 
